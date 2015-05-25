@@ -33,7 +33,7 @@ the Reunite Edges tool.  First, with the pointer tool, double click on the
 group containing your flattened model to enter the group.  Then select the 
 Reunite Edges tool.  From here you can change how your model is unfolded.
 Click on the faces you want to move to select them.  While you hover over
-edges, their partners will be hilighted in red.  Click on one, and all the
+edges, their partners will be highlighted in red.  Click on one, and all the
 selected faces will be picked up and moved so that the selected edge and its
 partner are reunited.
 
@@ -42,7 +42,7 @@ partner are reunited.
 For custom sized tabs, click once on an edge and move the mouse outward.
 Click again to make the tab.  You can also enter sizes in the Value Control
 Box.  Press Control to switch between trapezoid and triangle tabs.  Just
-like the Reunite Edges tool, the tab tool will hilight an edges partner 
+like the Reunite Edges tool, the tab tool will highlight an edges partner
 when you hover over it.  While you're making a tab, it will also show how
 that tab will overlap on the face it will be glued to.
 
