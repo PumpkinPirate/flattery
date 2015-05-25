@@ -139,7 +139,7 @@ module Flattery
                                                            0, 0, 0, 1])
                             
                             # Scaling here combined with the width and height in the SVG
-                            # get firefox to stop pixilating the textures.
+                            # get firefox to stop pixelating the textures.
                             uv = Geom::Transformation.new([10*uv_points[0].x, 10 - 10*uv_points[0].y, 1, 1,
                                                            10*uv_points[1].x, 10 - 10*uv_points[1].y, 1, 1,
                                                            10*uv_points[2].x, 10 - 10*uv_points[2].y, 1, 1,

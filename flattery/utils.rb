@@ -62,7 +62,7 @@ module Flattery
     
         def transformationTo(other)
             if self.parallel?(other)
-                #TODO: If paralell but not coplanar, return a translation?  What about orientation?
+                #TODO: If parallel but not coplanar, return a translation?  What about orientation?
                 return Geom::Transformation.new
             end
         
